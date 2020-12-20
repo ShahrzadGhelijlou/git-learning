@@ -1,2 +1,3 @@
-# git-learning
-USC AP course notes
+## git-learning
+
+Notes for USC AP course 
