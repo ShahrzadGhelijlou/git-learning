@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello GIT !!!";
+    cout << "Hello GIT !!!" << endl;
+    cout << "We are going to learn GIT";
 }
