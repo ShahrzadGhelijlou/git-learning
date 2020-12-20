@@ -2,7 +2,12 @@
 
 using namespace std;
 
-int main()
+void printGIT()
 {
     cout << "Hello GIT !!!";
+}
+
+int main()
+{
+    printGIT();
 }
